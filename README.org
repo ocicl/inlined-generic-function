@@ -1,0 +1,10 @@
+* inlined-generic-function
+
+Bringing the speed of Static Dispatch to CLOS. Succeeded by https://github.com/marcoheisig/fast-generic-functions
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/guicho271828/inlined-generic-function.git   |
+| commit  | 159f86e  |
+| systems | inlined-generic-function |
+|---------+-------------------------------------------|
+
