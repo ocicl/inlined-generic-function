@@ -8,4 +8,4 @@ Bringing the speed of Static Dispatch to CLOS. Succeeded by https://github.com/m
 | systems | inlined-generic-function |
 |---------+-------------------------------------------|
 
- 
+  
